@@ -1,0 +1,31 @@
+ [   
+    {
+        "id": 1,
+        "name": "Aaron",
+        "mobile": "5785664545",
+        "email": "aaron@gmail.com",
+        "address" :"blue street 103"
+        
+    },
+    {
+        "id": 2,
+        "name": "Buincy Hanson",
+        "mobile": "5785664545",
+        "email": "hanson@gmail.com",
+        "address" :"crap tower street 223"
+    },
+    {
+        "id": 3,
+        "name": "Luck",
+        "mobile": "7654324873",
+        "email": "Luck@gmail.com",
+        "address" :"wonsk kine line 221A"
+    },
+    {
+        "id": 4,
+        "name": " Hanson Brown",
+        "mobile": "6454557856",
+        "email": "brown@gmail.com",
+        "address" :"pink paris street AA103"
+    }
+]
